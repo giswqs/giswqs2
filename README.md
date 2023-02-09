@@ -2,6 +2,15 @@
 
 **giswqs/giswqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Employment
+- [University of Tennessee, Knoxivlle](https://www.utk.edu/)
+- [Binghamton University](https://binghamton.edu)
+
+## Projects
+- geemap
+- leafmap
+- whitebox
+
 Here are some ideas to get you started:
 
 - 😊😊😊😊😊😊😊😊😊😊😊😊
